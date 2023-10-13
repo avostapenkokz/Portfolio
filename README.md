@@ -5,8 +5,7 @@
 |---|--------------------------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------|
 | 1 | [Прогнозирование температуры звезд](StarTempPredict)       | Создание нейросети для предсказания температуры на поверхности звезд на основе косвенных данных  | Python, Pandas, NumPy, Scikit-learn, Matplotlib, PyTorch        |
 | 2 | [Определение возраста покупателей](CustomerAgeEstimation) | Создание нейросети для определения возраста покупателей  | Python, Keras, Matplotlib |
-| 3 | [Оценка риска ДТП](CarshareAlertSystem)                            | Эксперимент с созданием системы оценки риска ДТП при бронировании автомобиля для поездки по определенному маршруту
-                                   | Python, pandas, numpy, nltk, sklearn, CatBoost           |
-| 4 | Анализ текстов                             | Анализ комментариев пользователей на токсичность                                   | python, pandas, numpy, nltk, sklearn, CatBoost           |
+| 3 | [Оценка риска ДТП](CarshareAlertSystem)                            | Эксперимент с созданием системы оценки риска ДТП при бронировании автомобиля                  | Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PyTorch, LightGBM, CatBoost           |
+| 4 | Анализ текстов                             | Анализ комментариев пользователей на токсичность                                   | Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PyTorch, LightGBM, CatBoost           |
 | 5 | Анализ текстов                             | Анализ комментариев пользователей на токсичность                                   | python, pandas, numpy, nltk, sklearn, CatBoost           |
 | 6 | Анализ текстов                             | Анализ комментариев пользователей на токсичность                                   | python, pandas, numpy, nltk, sklearn, CatBoost           |
