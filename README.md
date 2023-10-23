@@ -7,3 +7,4 @@
 | 2 | [Определение возраста покупателей](CustomerAgeEstimation) | Создание нейросети для определения возраста покупателей  | Python, Keras, Matplotlib |
 | 3 | [Оценка риска ДТП](CarshareAlertSystem)                            | Эксперимент по созданию системы оценки риска ДТП при бронировании автомобиля                  | Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PyTorch, LightGBM, CatBoost           |
 | 4 | [Поиск изображений по описанию](ImageSearch)                             | Разработка алгоритма поиска изображений по текстовому описанию                                   | Python, Pandas, NumPy, Scikit-learn, PyTorch, BERT, CLIP           |
+| 5 | [Выявление токсичных комментариев](CommentsClassifier)                             | Разработка алгоритма поиска изображений по текстовому описанию                                   | Python, Pandas, NumPy, Scikit-learn, PyTorch, BERT, CLIP           |
