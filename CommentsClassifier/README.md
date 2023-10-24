@@ -10,7 +10,7 @@
 
 ## Используемый стек
 
-Python, Pandas, NumPy, Scikit-learn, LightGBM, PyTorch, BERT, re, Matplotlib, Seaborn
+Python, Pandas, NumPy, Scikit-learn, LightGBM, NLTK, SpaCy, PyTorch, BERT, re, Matplotlib, Seaborn
 
 ## Общий вывод
 
