@@ -15,7 +15,7 @@
 
 ## Используемый стек
 
-Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PyTorch, LightGBM, CatBoost
+Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PyTorch, CatBoost, Optuna
 
 ## Общий вывод
 
