@@ -1,7 +1,7 @@
 # Portfolio
 Here are some of the implemented projects.
 
-| # | Project Name                       | Description                                                                         | Tech Stack                                                      |
+| # | Project Name                       | Description                                                                         | Stack                                                      |
 |---|---------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | 1 | [Customer Age Estimation](CustomerAgeEstimation) | Creation of a neural network to determine the age of customers by their photos  | Python, Keras, Matplotlib |
 | 2 | [Telecom Churn Prediction](TelecomChurn)                            | Development of an ML solution to prevent customer churn from a telecommunications company                  | Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PyTorch, CatBoost, Optuna           |
