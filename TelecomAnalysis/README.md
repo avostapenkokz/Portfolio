@@ -1,19 +1,20 @@
-# Статистический анализ тарифов оператора сотовой связи, а также пользователей из Москвы и регионов.
+# Statistical Analysis of Mobile Operator Tariffs and Users from Moscow and Regions
 
-## Описание проекта
+## Project Description
 
-Проведение статистического анализа тарифов оператора сотовой связи, а также пользователей из Москвы и регионов. Проверка гипотез о наличии разницы по выручке между двумя тарифами и между пользователями из Москвы и регионов.
+Conducting statistical analysis of mobile operator tariffs, as well as users from Moscow and regions. Testing hypotheses about the difference in revenue between two tariffs and between users from Moscow and regions.
 
-## Данные
+## Data
 
-Информация о 500 пользователях в отдельных файлах: откуда они, каким тарифом пользуются, количество звонков, сообщений интернет-сессий и т.д.
+Information about 500 users in separate files: their location, which tariff they use, the number of calls, messages, internet sessions, etc.
 
-## Используемый стек
+## Stack
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy
 
-## Общий вывод
+## Conclusion
 
-Проведен предварительный анализ использования тарифов на выборке клиентов, проанализировано поведение клиентов при использовании услуг оператора. Проведена предобработка данных, их анализ. **Проверены гипотезы о различии выручки от абонентов разных тарифов и различии выручки от абонентов из Москвы и других регионов.**
+A preliminary analysis of the use of tariffs on a sample of clients was conducted, and the behavior of clients when using operator services was analyzed. Data preprocessing and analysis were carried out. **Hypotheses about the difference in revenue from subscribers of different tariffs and the difference in revenue from subscribers from Moscow and other regions were tested.**
+
 
 
