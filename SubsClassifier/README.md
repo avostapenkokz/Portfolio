@@ -1,17 +1,18 @@
-# Определение уровня языка в фильмах
+# English Language Level Determination in Movies
 
-## Описание проекта
+## Project Description
 
-Разработка алгоритма определения уровня английского языка по шкале CEFR в фильмах по файлам с субтитрами для языковой школы. 
+Development of an algorithm to determine the English language level according to the CEFR scale in movies using subtitle files for a language school.
 
-## Данные
+## Data
 
-В наличии был 241 файл с субтитрами, а также файл с названиями фильмов и разметками об уровне языка в них.
+There were 241 subtitle files available, as well as a file containing movie titles and annotations about the language level in them.
 
-## Используемый стек
+## Stack
 
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, CatBoost, optuna, PyMuPDF (fitz), re, difflib, NLTK, SpaCy
 
-## Общий вывод
+## Overall Conclusion
 
-После создания новых признаков из файлов с субтитрами метрика balanced accuracy достигла значения 83 даже без векторизации текста. Трансформер BERT не показал высокую точность из-за небольшого количества данных и большого дисбаланса в классах. Доработка модели продолжается.
+After creating new features from the subtitle files, the balanced accuracy metric reached 83 even without text vectorization. The BERT transformer did not show high accuracy due to the small amount of data and significant class imbalance. Further model refinement is ongoing.
+
