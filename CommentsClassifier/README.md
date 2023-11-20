@@ -1,17 +1,17 @@
-# Выявление токсичных комментариев
+## Detecting toxic comments
 
-## Описание проекта
+### Project description
 
-Разработка алгоритма выявления токсичных комментариев для интернет-магазина. 
+Development of an algorithm for detecting toxic comments for an online store.
 
-## Данные
+### Data
 
-В наличии было 160 тысяч текстов комментариев с разметкой о токсичности.
+160 thousand text comments with labels indicating toxicity.
 
-## Используемый стек
+### Stack
 
 Python, Pandas, NumPy, Scikit-learn, LightGBM, NLTK, SpaCy, PyTorch, BERT, re, Matplotlib, Seaborn
 
-## Общий вывод
+### Overall conclusion
 
-Задача была успешно решена как с использованием стандартных моделей машинного обучения, где был достигнут показатель метрики F1 выше 0.75, так и с помощью трансформера BERT, при котором показатель метрики F1 превысил 0.93.
+The task was successfully solved both using standard machine learning models, achieving an F1 metric above 0.75, and with the use of the BERT transformer, where the F1 metric exceeded 0.93.
