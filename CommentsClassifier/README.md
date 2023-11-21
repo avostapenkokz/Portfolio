@@ -2,7 +2,7 @@
 
 ### Project description
 
-Development of an algorithm for detecting toxic comments for an online store.
+Development of an algorithm for detecting toxic comments in online store.
 
 ### Data
 
