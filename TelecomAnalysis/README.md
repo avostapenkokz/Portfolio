@@ -1,4 +1,4 @@
-# Statistical Analysis of Mobile Operator Tariffs and Users from Moscow and Regions
+# Statistical analysis of mobile operator tariffs and users from Moscow and regions
 
 ## Project Description
 
