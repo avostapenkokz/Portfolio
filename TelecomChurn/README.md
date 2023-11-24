@@ -1,6 +1,6 @@
 # Customer churn prediction in a telecommunications company
 
-## Project Description
+## Project description
 
 Development of an ML solution for predicting customer churn in a telecommunications company and combating it.
 
@@ -17,7 +17,7 @@ It consists of several tables:
 
 Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PyTorch, CatBoost, Optuna
 
-## Overall Conclusion
+## Overall conclusion
 
 We have developed an algorithm that achieved an ROC AUC score on the test set exceeding 0.86. Model improvement is ongoing.
 Business recommendations were provided to the client to prevent customer churn.
