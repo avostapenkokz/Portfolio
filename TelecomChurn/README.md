@@ -1,4 +1,4 @@
-# Customer Churn Prediction in a Telecommunications Company
+# Customer churn prediction in a telecommunications company
 
 ## Project Description
 
