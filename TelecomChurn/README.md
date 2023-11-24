@@ -1,23 +1,23 @@
-# Прогноз оттока клиентов из телекоммуникационной компании
+# Customer Churn Prediction in a Telecommunications Company
 
-## Описание проекта
+## Project Description
 
-Разработка ML-решения для прогнозирования оттока клиентов из телекоммуникационной компании и борьбы с ним. 
+Development of an ML solution for predicting customer churn in a telecommunications company and combating it.
 
-## Данные
+## Data
 
-В наличии была база данных PostgreSQL c историческими даннными о клиентах телекоммуникационной компании:
-Она состоит из нескольких таблиц:
-- **contract** — информация о договорах;
-- **personal** — персональные данные клиентов;
-- **internet** — информация об интернет-услугах;
-- **phone** — информация об услугах телефонии.
+A PostgreSQL database with historical data about telecommunications company customers was available:
+It consists of several tables:
+- **contract** — contract information;
+- **personal** — customer personal data;
+- **internet** — information about internet services;
+- **phone** — information about phone services.
 
-## Используемый стек
+## Stack
 
 Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PyTorch, CatBoost, Optuna
 
-## Общий вывод
+## Overall Conclusion
 
-Удалось разработать алгоритм, при котором значение метрики ROC AUC на тестовой выборке превысило 0.86. Доработка модели продолжается.
-Заказчику были предоставлены бизнес-рекомендации для предотвращения оттока клиентов.
+We have developed an algorithm that achieved an ROC AUC score on the test set exceeding 0.86. Model improvement is ongoing.
+Business recommendations were provided to the client to prevent customer churn.
