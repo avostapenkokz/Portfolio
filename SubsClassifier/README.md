@@ -14,5 +14,5 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, CatBoost, optuna, PyMu
 
 ## Overall conclusion
 
-After creating new features from the subtitle files, the balanced accuracy metric reached 83 even without text vectorization. The BERT transformer did not show high accuracy due to the small amount of data and significant class imbalance.
+After creation of new features from the subtitle files, the balanced accuracy metric reached 83 even without text vectorization. The BERT transformer did not show high accuracy due to the small amount of data and significant class imbalance.
 
