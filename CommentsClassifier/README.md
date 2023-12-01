@@ -1,8 +1,8 @@
-## Detecting toxic comments
+## Detection of toxic comments
 
 ### Project description
 
-Development of an algorithm for detecting toxic comments in online store.
+Development of an algorithm for detection of toxic comments in online store.
 
 ### Data
 
