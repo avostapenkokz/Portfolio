@@ -16,4 +16,4 @@ Python, PySpark, NumPy, Scikit-learn, Matplotlib, Docker
 
 The project was implemented using Docker containers and PySpark. 
 Linear regression model trained on the additional features demonstrated performance metrics with Mean Absolute Error (MAE) of 2.18.
-Training separate linear regression models for each district reduced MAE to 2.05.
+Training of separate linear regression models for each district reduced MAE to 2.05.
